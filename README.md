@@ -3,7 +3,7 @@
 </p>
 
 ![Platform](https://img.shields.io/badge/platform-android-green.svg)
-![Maven](https://img.shields.io/badge/Maven-1.0.0-lightgrey.svg)
+![Maven](https://img.shields.io/badge/Maven-0.1.0-lightgrey.svg)
 [![Facebook](https://img.shields.io/badge/Facebook-Azot%20Ltd-blue.svg)](https://www.facebook.com/uxanalysis)
 
 Azot is a mobile analysis SDK that runs directly inside phones or tablets. This repository holds the framework for the android version of Azot written in Java.

@@ -45,7 +45,7 @@ Repository URL:
     
 **Gradle**
 
-    compile(group: 'io.azot.sdk.android', name: 'azot', version: '1.0', ext: 'aar')
+    compile('io.azot.sdk.android', 'azot', '1.0', 'aar')
 
 **Ivy**
 
@@ -59,7 +59,7 @@ Repository URL:
 
 **Or**
 
-Install Azot manually into your app by dragging the Azot.framework into your project. You can download it from <a href="http://artifactory.toulouse.appstud.me/artifactory/azot-android" target="_blank">here</a>
+Install Azot manually into your app by dragging the Azot.aar file into your project. You can download it from <a href="http://artifactory.toulouse.appstud.me/artifactory/azot-android" target="_blank">here</a>
 
 ##Start
 

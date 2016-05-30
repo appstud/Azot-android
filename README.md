@@ -32,7 +32,7 @@ Azot uses threading internally to avoid blocking the UI, but none of the Azot ex
 
 Repository URL: 
 
-     http://artifactory.toulouse.appstud.me/artifactory/azot-android
+     maven {url 'http://artifactory.toulouse.appstud.me/artifactory/azot-android'}
 
 **Maven**
 
@@ -45,7 +45,7 @@ Repository URL:
     
 **Gradle**
 
-    compile('io.azot.sdk.android', 'azot', '1.0', 'aar')
+    compile('io.azot.sdk.android:azot:1.0@aar')
 
 **Ivy**
 
